@@ -9,6 +9,9 @@ verify_ssl = true
 django = "*"
 djangorestframework = "*"
 mixer = "*"
+pytest = "*"
+pytest-django = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"

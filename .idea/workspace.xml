@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c94daeb7-c410-480a-ba59-e3de9d074b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/school/classroom/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/school/local_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school/classroom/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school/classroom/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school/school/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/school/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,19 +56,31 @@
       <option name="project" value="LOCAL" />
       <updated>1587452673989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mixers">
+      <created>1587476849569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587476849569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added models" />
+    <MESSAGE value="Mixers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mixers" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1587452672049">
+    <state x="443" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587477065248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587452672049" />
+    <state x="443" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587477065248" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1587476844468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587476844468" />
     <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1587408226137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
