@@ -1,9 +1,10 @@
 from django.test import TestCase
-from .models import Student
+from .models import Student, ClassRoom
 from mixer.backend.django import mixer
-
+import  pytest
 # Create your tests here.
 
+pytestmark = pytest.mark.django_db #not to save data to database
 
 class TestStudentModel(TestCase):
 
@@ -33,6 +34,18 @@ class TestStudentModel(TestCase):
         student = mixer.blend(Student, average_score=80)
         student_query = Student.objects.last()
         self.assertEqual(student_query.get_grade(), 'Excellent')
+
+    def test_grade_error(self):
+        student = mixer.blend(Student, average_score=101)
+        student_query = Student.objects.last()
+        self.assertEqual(student_query.get_grade(), 'Error')
+
+class TestClassroomModel:
+    def test_classroom_create(self):
+        classroom = mixer.blend(ClassRoom,name='Physics')
+        classroom_query = ClassRoom.objects.last()
+        assert classroom_query.name == "Physics"
+        assert str(classroom) == "Physics"
 
 
 

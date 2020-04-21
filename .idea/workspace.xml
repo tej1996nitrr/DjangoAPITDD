@@ -1,38 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c94daeb7-c410-480a-ba59-e3de9d074b74" name="Default Changelist" comment="added pytest-cov and html output settings">
-      <change afterPath="$PROJECT_DIR$/school/.coverage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/.coveragerc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom___init___py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom_admin_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom_apps_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom_migrations_0001_initial_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom_migrations___init___py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom_models_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom_tests_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/classroom_views_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/coverage_html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/jquery.hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/jquery.isonscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/keybd_closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/keybd_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/manage_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/school___init___py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/school_asgi_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/school_local_settings_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/school_settings_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/school_urls_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/school_wsgi_py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/status.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/htmlcov/style.css" afterDir="false" />
+    <list default="true" id="c94daeb7-c410-480a-ba59-e3de9d074b74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/school/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/classroom/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/htmlcov/classroom_admin_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/classroom_admin_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/htmlcov/classroom_models_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/classroom_models_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/htmlcov/classroom_tests_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/classroom_tests_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/htmlcov/classroom_views_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/classroom_views_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/htmlcov/school_urls_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/school_urls_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/status.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +93,32 @@
       <option name="project" value="LOCAL" />
       <updated>1587478827559</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added pytest-cov and html output settings">
+      <created>1587479954589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587479954589</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -112,10 +133,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587479639160" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1587479808416">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1587479950227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587479808416" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587479950227" />
     <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1587408226137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -132,5 +153,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="203" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587452737396" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587480465947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587480465947" />
   </component>
 </project>
