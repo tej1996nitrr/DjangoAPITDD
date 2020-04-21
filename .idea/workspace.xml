@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c94daeb7-c410-480a-ba59-e3de9d074b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/classroom/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/classroom/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/classroom/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/classroom/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/classroom/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/classroom/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/classroom/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoAPITDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoAPITDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/classroom/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/school/local_settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/classroom/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/classroom/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/school/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/school/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/school/school" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PyCharm\DjangoAPITDD\school\school" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,12 +53,26 @@
       <option name="presentableId" value="Default" />
       <updated>1587396494977</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added models">
+      <created>1587452673989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587452673989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added models" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1587452672049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587452672049" />
     <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1587408226137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -67,9 +85,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587407452170" />
-    <state x="203" y="17" key="SettingsEditor" timestamp="1587452300207">
+    <state x="203" y="17" key="SettingsEditor" timestamp="1587452737396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="203" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587452300207" />
+    <state x="203" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587452737396" />
   </component>
 </project>
