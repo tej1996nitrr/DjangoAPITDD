@@ -4,7 +4,7 @@ from ..models import Student, ClassRoom
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
-
+from rest_framework import permissions, authentication
 
 class StudentListAPIView(ListAPIView):
     serializer_class = StudentSerializer
@@ -29,6 +29,8 @@ class StudentDeleteAPIView(DestroyAPIView):
 class ClassRoomAPIView(APIView):
     serializer_class = ClassRoomSerializer
     model = ClassRoom
+    permission_classes = [permissions.IsAuthenticatedOrReadOnly]
+    authentication_classes = [authentication.TokenAuthentication]
 
     def get(self, *args, **kwargs):
         url_number = self.kwargs.get('student_capacity')
