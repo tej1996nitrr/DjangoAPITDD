@@ -20,9 +20,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c94daeb7-c410-480a-ba59-e3de9d074b74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/coverage_html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.hotkeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.isonscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/school_classroom___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/school_classroom_admin_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/school_classroom_models_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/school_classroom_tests_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/school_school___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/school_school_local_settings_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/060842be182a4740/705ef95420cc18dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/0bde307d83147236/b56705a73cf280f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/1d9250d2c88fbdc7/7c2db09d310ece0b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/1d9250d2c88fbdc7/e3cd28f00d196b82" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/2a6b180711100b26/705ef95420cc18dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/35d048caa05add0d/705ef95420cc18dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/024dc0582330702a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/0498e2fb9be8ee78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/0535866db02b3348" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/0c7fbf7efba24ff7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/17c0b406063375fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/1c8733a900be8d9d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/32e47a430c9a2593" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/379063096a762d22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/3b95eb819a8166f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/3eb4f0278c400bf0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/45e0cc2593d82272" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/4d1e6c9adee62730" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/671746e9b07087c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/6b0856d8a7e62ead" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/6c07bc54ac061751" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/72f8a19d7badc6cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/7a8335889017d1d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/8bc3e2abe9cf6315" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/9ee95c671fedc172" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/b6a4a34b85df7144" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/b936ca543c0f1f8d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/cc3e67bc2100a30e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/ce088e358771c2fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/cfe4893ae742e500" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/d3fc3ca423602b63" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/e2fea5991ab370d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/ecd28513dcf40a06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/66fd63832d7844d2/f5b6ec7fd489250f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/684b1dd151e818aa/705ef95420cc18dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/684b1dd151e818aa/9461c372b0d93fe3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/68bdfbf46a568700/b56705a73cf280f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/6901f9695a5198b6/b56705a73cf280f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/6d21647efb5a6d33/b56705a73cf280f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/79ebdbb5db604a9b/9461c372b0d93fe3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/a7bdb231225cbc3e/1dd6f7b457ad880d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/examples/f37ad57e66a63a38/1dd6f7b457ad880d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.hypothesis/unicode_data/11.0.0/charmap.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/classroom/migrations/0002_student_username.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoAPITDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoAPITDD.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/school/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/classroom/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/classroom/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/school/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/htmlcov/classroom_admin_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/classroom_admin_py.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/htmlcov/classroom_models_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/classroom_models_py.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/htmlcov/classroom_tests_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/classroom_tests_py.html" afterDir="false" />
@@ -30,6 +98,7 @@
       <change beforePath="$PROJECT_DIR$/school/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/htmlcov/school_urls_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/school_urls_py.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/school/htmlcov/status.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/school/pytest.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +129,63 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\PyCharm\DjangoAPITDD\school\school" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in tests.py">
+    <configuration name="pytest for classroom.tests.TestStudentModel.test_grade_error" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="DjangoAPITDD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/school" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;classroom.tests.TestStudentModel.test_grade_error&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for classroom.tests.TestStudentModel.test_grade_fail" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="DjangoAPITDD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/school" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;classroom.tests.TestStudentModel.test_grade_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="DjangoAPITDD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/school" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/school/classroom/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in tests.py" />
+        <item itemvalue="Python tests.pytest for classroom.tests.TestStudentModel.test_grade_fail" />
+        <item itemvalue="Python tests.pytest for classroom.tests.TestStudentModel.test_grade_error" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -100,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587479954589</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding pytest for classroom model.">
+      <created>1587480943330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587480943330</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +252,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -126,17 +260,18 @@
     <MESSAGE value="Mixers" />
     <MESSAGE value="pytest integration" />
     <MESSAGE value="added pytest-cov and html output settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="added pytest-cov and html output settings" />
+    <MESSAGE value="adding pytest for classroom model." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding pytest for classroom model." />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587479639160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587479639160" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1587479950227">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1587480941110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587479950227" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587480941110" />
     <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1587408226137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -149,10 +284,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587407452170" />
-    <state x="203" y="17" key="SettingsEditor" timestamp="1587452737396">
+    <state width="1345" height="15" key="GridCell.Tab.0.bottom" timestamp="1587544556301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="203" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587452737396" />
+    <state width="1345" height="15" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587544556301" />
+    <state width="1345" height="15" key="GridCell.Tab.0.center" timestamp="1587544556301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="15" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587544556301" />
+    <state width="1345" height="15" key="GridCell.Tab.0.left" timestamp="1587544556301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="15" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587544556301" />
+    <state width="1345" height="15" key="GridCell.Tab.0.right" timestamp="1587544556301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="15" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587544556301" />
+    <state x="203" y="17" key="SettingsEditor" timestamp="1587537158735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="203" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587537158735" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587480465947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
