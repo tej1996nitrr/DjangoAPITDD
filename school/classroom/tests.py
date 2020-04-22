@@ -11,9 +11,6 @@ pytestmark = pytest.mark.django_db  # not to save data to database
 
 class TestStudentModel(TestCase):
 
-    # def setUp(self):
-    # self.student = Student.objects.create(average_score=30,first_name='Tom', last_name='Jerry', admission_number=1234, is_qualified=True)
-
     def test_student_creation(self):
         student = mixer.blend(Student, first_name="Tom")
         student_query = Student.objects.last()
@@ -36,7 +33,7 @@ class TestStudentModel(TestCase):
         assert student_query.get_grade() == 'Pass'
 
     @given(st.floats(min_value=70, max_value=100))
-    def test_grade_excellent(self,score):
+    def test_grade_excellent(self, score):
         student = mixer.blend(Student, average_score=score)
         student_query = Student.objects.last()
         assert student_query.get_grade() == 'Excellent'
